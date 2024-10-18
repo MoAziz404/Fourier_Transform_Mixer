@@ -19,11 +19,5 @@ The Fourier Transform Mixer is a sophisticated tool designed for efficient and i
 </p>
 
 
-## Team Members: <br>
-1- Fady Mohsen <br>
-2- Ahmad Mahmoud <br>
-3- Shehab Mohamad <br>
-4- Mohamad Aziz <br>
-
 
 
